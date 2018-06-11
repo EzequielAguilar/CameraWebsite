@@ -1,0 +1,174 @@
+C:\project\assignment1\assignment1.Tests\bin\Debug\ApplicationInsights.config
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.dll.config
+C:\project\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.pdb
+C:\project\assignment1\assignment1.Tests\bin\Debug\assignment1.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Helpers.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Mvc.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Razor.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Optimization.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Owin.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\EntityFramework.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\project\assignment1\assignment1.Tests\bin\Debug\assignment1.pdb
+C:\project\assignment1\assignment1.Tests\bin\Debug\assignment1.dll.config
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Helpers.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Mvc.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Razor.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\System.Web.Optimization.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\EntityFramework.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\project\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\project\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.csprojResolveAssemblyReference.cache
+C:\project\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.csproj.CoreCompileInputs.cache
+C:\project\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.dll
+C:\project\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.dll.config
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Owin.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.dll.config
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Moq.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Moq.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\Moq.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\new assignment\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.dll.config
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.Tests.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Moq.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Owin.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\assignment1.dll.config
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Moq.pdb
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Moq.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.dll
+C:\Users\Ezequiel\Documents\Programming\Module 3 Enterprise Computing\Assignment1\assignment1\assignment1.Tests\obj\Debug\assignment1.Tests.pdb

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<assignment1.Models.camera>
+
+@{
+    ViewBag.Title = "Cameras";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Cameras</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table sortable">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.company.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Megapixels)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cameraPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.image)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.company.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Megapixels)
+                MP
+            </td>
+            <td>
+                $
+                @Html.DisplayFor(modelItem => item.cameraPrice)
+            </td>
+            <td>
+                @*is it possible to set the Default for image ? I should have allowed the database to be NULL but I forgot,
+        and doing it now is going to deleted all the changes I made to models and controllers-
+        In that line of thought, can I update the database after I've created tables ?*@
+                @if (item.image == "image")
+                {
+                    
+            <img src="~/Content/Images/Cameras/placeholder.png" alt="@item.image" width="30" />
+}
+else
+{           //src="@item.Image" isn't working for whatever reason, even if you set the Image field in the browser
+                    // as the correct file locations. ~/Content/Images/Cameras/D3400.jpg in the logo field, for example
+                    // hard coded for now to display how I want it to look
+            <img src="~/Content/Images/Cameras/D3400.jpg" alt="@item.Model" width="30" />
+}
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.cameraID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.cameraID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.cameraID })
+            </td>
+        </tr>
+    }
+
+</table>

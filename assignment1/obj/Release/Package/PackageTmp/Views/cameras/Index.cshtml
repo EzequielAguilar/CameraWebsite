@@ -1,0 +1,52 @@
+﻿@model IEnumerable<assignment1.Models.camera>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Megapixels)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cameraPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.companyID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Megapixels)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cameraPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.companyID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.cameraID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.cameraID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.cameraID })
+        </td>
+    </tr>
+}
+
+</table>

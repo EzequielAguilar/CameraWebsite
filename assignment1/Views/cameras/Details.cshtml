@@ -1,0 +1,61 @@
+﻿@model assignment1.Models.camera
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Model Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.company.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.company.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Megapixels)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Megapixels)
+            MP
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cameraPrice)
+        </dt>
+
+        <dd>
+            $
+            @Html.DisplayFor(model => model.cameraPrice)
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.image)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.image)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cameraID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

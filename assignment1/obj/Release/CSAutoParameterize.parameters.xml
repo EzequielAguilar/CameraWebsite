@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="data source=200359366camera.database.windows.net;initial catalog=cameraDatabase;persist security info=True;user id=ezequiel97;password=passwordA1;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\project\\assignment1\\assignment1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="cameraStoreModel-Web.config Connection String" description="cameraStoreModel Connection String used in web.config by the application to access the database." defaultValue="data source=200359366camera.database.windows.net;initial catalog=cameraDatabase;persist security info=True;user id=ezequiel97;password=passwordA1;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\project\\assignment1\\assignment1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cameraStoreModel']/@connectionString" />
+  </parameter>
+</parameters>

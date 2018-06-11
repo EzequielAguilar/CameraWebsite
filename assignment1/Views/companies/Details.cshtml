@@ -1,0 +1,77 @@
+﻿@model assignment1.Models.company
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Name Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Logo)
+        </dt>
+
+        <dd>
+
+            @*@Html.DisplayFor(model => model.Logo)
+                Why isn't there a foreach loop in this details  page ?*@
+            <img src="~/Content/Images/placeholder.png" alt="" width="40" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CEO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CEO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.numEmployees)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.numEmployees)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stockName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stockName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.companyID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
